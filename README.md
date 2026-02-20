@@ -17,7 +17,7 @@ Just work, rest, repeat.
 
 ## 🚀 Live Demo
 
-👉 https://yourusername.github.io/reptimer/
+👉 https://tacofan709.github.io/reptimer/
 
 ## 🧠 How It Works
 
